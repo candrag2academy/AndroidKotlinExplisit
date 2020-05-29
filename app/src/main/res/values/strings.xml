@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RegisterActivityApp</string>
+    <string name="button_home_text">To Home Activity</string>
+    <string name="button_main_text">Back to Main Activity</string>
+</resources>
